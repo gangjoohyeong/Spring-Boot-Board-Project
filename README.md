@@ -1,6 +1,6 @@
 # Spring Boot Board Project
 
-> <b>Java</b> 생태계와 친해지기 위한 시작한 프로젝트   
+> <b>Java</b> 생태계와 친해지기 위해 시작한 프로젝트   
 > <b>Spring Boot</b>를 기반으로 질문/답변 게시판 제작
 
 
