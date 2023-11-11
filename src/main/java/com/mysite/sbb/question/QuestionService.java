@@ -33,7 +33,7 @@ public class QuestionService {
         public void create(String subject, String content) {
             Question q = new Question();
             q.setSubject(subject);
-            q.setSubject(content);
+            q.setContent(content);
             q.setCreateDate(LocalDateTime.now());
             this.questionRepository.save(q);
         }
