@@ -11,11 +11,6 @@
 [![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)](https://gradle.org/)
 [![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
 
-## API 명세서
-...
-
-## UI / UX
-...
 
 ## Reference
 - [점프 투 스프링부트](https://wikidocs.net/book/7601)
